@@ -9,7 +9,10 @@ This analysis was performed for the PlanMyTrip app. The app had some design reco
 This project focused on obtaining real time weather data, and then utilizing this weather data for tip planning purposes. We were able to do the following:
   - Retrieve Weather Data
   - Create Customer Travel Destination Maps after obtaining their desired minimum and maximum temperatures of their destinations
+    -![](Vacation_Search/WeatherPy_vacation_map.png)
   - Create a Travel Itinerary Map that included hotels and exact latitude and longitude information of multiple cities at once
+  - - ![](Vacation_Itinerary/WeatherPy_travel_map.png)
+  - - ![](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
 ## Conclusion
 The analysis was successful, and both snapshots and dataframes are viewable in the attached folders. 
