@@ -10,6 +10,7 @@ This project focused on obtaining real time weather data, and then utilizing thi
   - Retrieve Weather Data
   - Create Customer Travel Destination Maps after obtaining their desired minimum and maximum temperatures of their destinations
     -![](Vacation_Search/WeatherPy_vacation_map.png)
+  
   - Create a Travel Itinerary Map that included hotels and exact latitude and longitude information of multiple cities at once
   - - ![](Vacation_Itinerary/WeatherPy_travel_map.png)
   - - ![](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
